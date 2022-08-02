@@ -1,0 +1,21 @@
+{
+  "name": "busheezy.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build-site": "mkdir -p dist && resume export dist/index.html -r resume.json -t elegant",
+    "build-pdf": "resume export dist/resume.pdf -r resume.json -t flat"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "resume-cli": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busheezy/busheezy.github.io.git"
+  },
+  "author": "BuSheeZy",
+  "license": "UNLICENSED",
+  "homepage": "https://busheezy.dev"
+}

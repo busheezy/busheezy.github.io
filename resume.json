@@ -1,0 +1,156 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ryan Bucshon",
+    "label": "Full Stack Developer",
+    "email": "busheezy@gmail.com",
+    "url": "https://busheezy.dev",
+    "summary": "I'm a motivated developer that is always learning the latest technologies. I contribute to open source projects when I can. I am consistently working on a hobby project of some sort (check my Github).",
+    "location": {
+      "countryCode": "US",
+      "region": "Illinois"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "busheezy",
+        "url": "https://github.com/busheezy"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ryan-bucshon",
+        "url": "https://www.linkedin.com/in/ryan-bucshon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Self",
+      "location": "Remote",
+      "description": "Various contracts.",
+      "position": "Developer - Contract",
+      "url": "https://busheezy.dev",
+      "startDate": "2014-11-01",
+      "summary": "Worked with some of the top Twitch streamers. Automated the deployment of ads for leaders in OOH advertising. Created large gaming networks.",
+      "highlights": [
+        "Twitch Interactions",
+        "OOH Ads",
+        "Tournaments"
+      ]
+    },
+    {
+      "name": "Mesmerize Media LLC",
+      "location": "Remote",
+      "description": "Point of care media, transit media, and place-based, out-of-home media.",
+      "position": "Developer - Contract",
+      "url": "https://www.mesmerize.com",
+      "startDate": "2020-10-01",
+      "endDate": "2021-12-01",
+      "summary": "Created various tools to reduce workload. Logged interactions to ensure network quality. Synced devices in the field to Sales Force.",
+      "highlights": [
+        "Deployment",
+        "Automation",
+        "Logging",
+        "Analytics",
+        "Sales Force"
+      ]
+    },
+    {
+      "name": "Respario Digital Advertising Group",
+      "location": "Remote",
+      "description": "Digital advertising service.",
+      "position": "Developer - Contract",
+      "startDate": "2018-08-01",
+      "endDate": "2021-12-01",
+      "summary": "Created dashboards to optimize management of deployed devices.",
+      "highlights": [
+        "Deployment",
+        "Dashboards"
+      ]
+    },
+    {
+      "name": "MAI",
+      "location": "Taylorville, IL",
+      "description": "Worked in data center to optimize usage of equipment.",
+      "position": "IT Assistant",
+      "url": "https://www.mktalt.com/",
+      "startDate": "2014-04-01",
+      "endDate": "2014-11-01",
+      "summary": "Assisted with IT duties to keep the network running smoothly.",
+      "highlights": [
+        "Network Organization"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Master",
+      "keywords": [
+        "TypeScript",
+        "HTML5",
+        "CSS",
+        "Vue",
+        "React",
+        "Vite"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "TypeScript",
+        "Nest.js",
+        "Node.js",
+        "Linux",
+        "Elasticsearch",
+        "SQL"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Docker",
+        "Docker Compose",
+        "nginx",
+        "Caddy",
+        "git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Drones",
+      "keywords": [
+        "FPV",
+        "Freestyle"
+      ]
+    },
+    {
+      "name": "Game Servers",
+      "keywords": [
+        "Performance",
+        "Deployment"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2022-07-09T18:46:29Z",
+    "theme": "elegant"
+  }
+}
